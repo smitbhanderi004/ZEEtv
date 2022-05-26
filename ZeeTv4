@@ -11,12 +11,12 @@
       },
       {
          "app_id":"",
-         "banner_id":"325040525967023_325041495966926",
-         "interstitial_id":"325040525967023_325042812633461",
-          "interstitial_id1":"325040525967023_325043052633437",
-          "interstitial_id2":"325040525967023_325043145966761",
-         "native_id":"325040525967023_325042155966860",
-         "native_banner_id":"325040525967023_325042609300148",
+         "banner_id":"",
+         "interstitial_id":"",
+          "interstitial_id1":"",
+          "interstitial_id2":"",
+         "native_id":"",
+         "native_banner_id":"",
          "rectangle_banner_id":"",
          "status":"true",
          "splash_ads":"false"
